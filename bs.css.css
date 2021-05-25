@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+  color: green;
+}
+h2{
+  color:green;
+}
+
+body{
+  background-color: gold;
+}
+ul li{
+  color:green;
+}
+table{
+  border-collapse:colapse;
+}
+th{
+  background-color:green;
+}
+table, td, th{
+  border:.5px solid black; 
+}
+

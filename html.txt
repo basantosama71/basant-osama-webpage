@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>
+
+flowers
+
+
+</title>
+<h1>
+flowers
+</h1>
+<h2> types of flowers <h2>
+  <li> <b><em>Alstroemerias</em></b></li>
+  <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Alstroemerias_155136344-1024x235.jpg">
+
+  <li> <b><em>calla lilies</em></b></li>
+  <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/calla_lillies-1024x235.jpg">
+
+  <li> <b><em>Carnations</em></b></li>
+   <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/carnation_47481415-1024x235.jpeg" >
+
+  <li> <b><em>Daisies</em></b></li> 
+  <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/daises_289058527-1024x235.jpg">
+           
+<li> <b><em>Gardenias</em></b></li>
+<img src= "https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Gardenia_45544624-1024x235.jpg" >
+   
+    <li> <b><em>Gerbera Daisies</em></b></li>
+    <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/gerbera_270451332-1024x235.jpg" >
+    
+      <li> <b><em>Lilies</em></b></li>
+      <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/lillies_92262591-1024x235.jpeg">
+
+       <li> <b><em>Orchids</em></b></li>
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Pink_Orchids-1024x235.jpg" >
+
+       <li> <b><em>roses</em></b></li>
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Pink_Roses-1024x235.jpg">
+       <li> <b><em>sunflowers</em></b></li>
+        <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/sunflower_330437881-1024x235.jpeg">
+        
+         <li> <b><em>Tulips</em></b></li>
+          <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/tulip_266902867-1024x235.jpeg">
+            
+         
+
+
+<li> <b><em>Peonies</em></b></li>
+<img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Peony-162893881-1024x235.jpg">
+<li> <b><em></em>Dahlias</b></li>
+<img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Dahlia_219226845-1024x235.jpg">
+
+      <li> <b><em>Marigold</em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Marigold_319450281-1024x235.jpeg">
+
+      <li> <b><em>Aster</em></b></li>
+      <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Aster_255825650-1024x235.jpg">
+
+
+      <li> <b><em>Azalea </em></b></li> 
+      <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Azalea_187440753-1024x235.jpg">
+      
+
+      <li> <b><em>Black-Eyed Susan  </em></b></li> 
+      <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Black-Eye-Susan-1024x235.jpg" >
+
+      <li> <b><em>Buttercup </em></b></li>
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Buttercup_749220-1024x235.jpeg">
+
+       
+      <li> <b><em> California Poppy  </em></b></li>
+      <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/CaliforniaPoppy-1024x235.jpg">
+      <li> <b><em>Chrysanthemum </em></b></li>
+      <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Chryscenthemum_381443377-1024x235.jpg">
+
+
+      <li> <b><em> Crocus  </em></b></li>
+       <img src= "https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Crocus_192468277-1024x235.jpg">
+ <li> <b><em> Daffodil   </em></b></li>
+<img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Daffodil_84277121-1024x235.jpg">
+ <li> <b><em>Delphinium  </em></b></li>
+<img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Delphinium-1024x235.jpg">
+ <li> <b><em> Dusty Miller  </em></b></li>
+  <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/DustyMiller_397608595-1024x235.jpg">
+     <li> <b><em>  Geranium  </em></b></li>
+     <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Geranium_220654089-1024x235.jpg">
+
+
+      <li> <b><em>  Iris  </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Iris_111224437-1024x235.jpg">
+       <li> <b><em> Lavender    </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Lavender167351986-1024x235.jpg">
+        <li> <b><em> Periwinkle   </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Periwinkle_124572255-1024x235.jpg">
+
+       <li> <b><em> Petunia   </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Petunia_275858907-1024x235.jpg">
+<li> <b><em>  Ranunculus   </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Ranunculus_216582220-1024x235.jpg">
+<li> <b><em>  Snapdragon </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Snapdragon-273555143-1024x235.jpg">
+
+<li> <b><em>  Violet  </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/Violet_256830949-1024x235.jpg">
+
+     <li> <b><em>Zinnia   </em></b></li> 
+       <img src="https://www.1800flowers.com/blog/wp-content/uploads/2021/04/zinnia_111642373-1024x235.jpg">
+
+</head>
+
+
+
+
+
+<body>
+<p>
+introduction :
+Flowers come in thousands of different shapes and color combinations, each with their own name and classification
+There are over 400,000 types of flowering plants 
+so there is sure to be a flower that speaks to your unique personality
+f that seems like a lot to sort through have no fear – here is a quick list of some of the most popular flower types. </p>
+   
+<h3> Flowers blossoms </h3>
+
+<table>
+<tr>
+<th> Alstroemerias</th>
+<th> Calla Lilies </th>
+<th>Carnations </th>
+<th>Daisies</th>
+<th>Gardenias</th>
+<th>Gerbera Daisies</th>
+<th>Lilies</th>
+<th>Orchids</th>
+ <th>Roses</th>  
+<th>Sunflowers</th>
+<th>Tulips</th>
+<th>Peonies</th>
+<th>Dahlias</th>
+<th>Marigold</th>
+<th>Aster  </th>
+<th>Azalea</th>
+<th>Black-Eyed Susan  </th>
+<th>Buttercup </th>
+<th>California Poppy  </th>
+<th>Chrysanthemum </th>
+<th>Crocus</th>
+<th>Daffodil </th>
+<th> Delphinium </th>
+<th>Dusty Miller  </th>
+<th>Geranium </th>
+<th> Iris</th>
+<th>Lavender  </th>
+<th>Periwinkle </th>
+<th> Petunia  </th>
+<th> Ranunculus </th>
+<th> Snapdragon  </th>
+<th> Violet </th>
+<th> Zinnia  </th>
+</tr>
+<tr>
+<td> Early Spring </td>
+<td> Mid‑Summer - Mid‑Fall </td>
+<td> Late Spring - Mid‑Summer </td>
+<td> Mid Spring - Mid‑Fall </td>
+<td> Summer </td>
+<td> Late Summer </td>
+<td> Late Spring - Early Fall </td>
+<td> Late Spring - Early Fall </td>
+<td> Early Spring </td>
+<td> Mid-Spring - Early Summer </td>
+<td> Spring </td>
+<td>Summer </td>
+<td> Summer </td>
+<td> Early Spring </td>
+<td> Early Summer - Early Fall </td>
+<td> Early Spring </td>
+<td>  Early Summer - Early Fall</td>
+<td>Late Summer - Mid‑Fall </td>
+<td> Late Summer - Mid‑Fall </td>
+<td> Late Summer - Mid‑Fall </td>
+<td> Late Summer - Mid‑Fall </td>
+<td> Early Spring </td>
+<td> Early Spring </td>
+<td>Early Summer - Mid‑Fall </td>
+<td>Early Summer - Mid‑Fall  </td>
+<td> Early Summer - Mid‑Fall </td>
+<td>Spring  </td>
+<td> Early Spring </td>
+<td> Spring</td>
+<td>Spring  </td>
+<td> Early Spring </td>
+<td> Spring</td>
+<td>Spring</td>
+</tr>
+</body>
+</html>
+
